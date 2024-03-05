@@ -23,3 +23,5 @@ Console.WriteLine(quotient);
 d1 = 6;
 double quotient2 = i1 / d1;
 Console.WriteLine(quotient2);
+
+//Вычислить значение формулы (a*b)/(c+d), где a, b, c, d — некоторые целые числа. Результат вывести на экран.
