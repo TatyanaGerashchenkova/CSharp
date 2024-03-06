@@ -1,4 +1,4 @@
-﻿int a = 100;
+﻿int a = 101;
 int b = 7;
 
 if (a > b)
